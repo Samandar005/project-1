@@ -23,10 +23,6 @@ A simple web-based application for managing courses. Users can create, view, and
   - Start and End Dates
   - Maximum number of students
 
-## Example Screenshot
-
-![Course Management System](![image](https://github.com/user-attachments/assets/0d420454-1408-4265-9bd1-e27b3077d026)
-)
 
 ## Getting Started
 
